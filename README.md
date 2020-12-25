@@ -13,3 +13,4 @@ Once this is done u will be see image using docker images
 Use below command to run the container
 
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
+11bdb054ccf13317849db6e55e873c8822
